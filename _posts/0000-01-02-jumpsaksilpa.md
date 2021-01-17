@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+It's not in LaTeX so it's not true
 Use the left arrow to go back!
